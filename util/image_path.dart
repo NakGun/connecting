@@ -1,0 +1,1 @@
+String getImgPath(String postKey) => 'Posts/$postKey/${DateTime.now().millisecondsSinceEpoch}.jpg';
